@@ -23,3 +23,10 @@
 - **Target Corporate Customers**: Focus marketing efforts on **high-value segments** like **Corporate buyers**.
 - **Optimize Inventory Management**: Reduce **unsold Tables stock** and **adjust pricing models**.
 - **Leverage High-Profit Categories**: Prioritize investments in **Technology and Copier sub-categories**.
+
+- ## 📞 Contact
+For questions or collaboration, reach out to:
+
+-**Name**: Krish Garg
+<br>
+-**Email**: krishgarg665@gmail.com
